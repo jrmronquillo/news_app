@@ -8,6 +8,9 @@
 body{
 	font-family: ClearViewATT;
 	margin:0;
+	overflow: hidden;
+	width: 100vw;
+	height: auto;
 }
 
 .app-container{
@@ -73,7 +76,7 @@ body{
     left: 0px;
     top: 0;
     height: 100%;
-    width: 35%;
+    width: 30%;
     padding: 25px;
     /*background: url(../assets/images/png/canvas-gradient.png) 0 0 repeat-y rgba(0,0,0,0.3);*/
    	/*background-color: black;*/
@@ -83,7 +86,7 @@ body{
 
 .canvas-title{
 	padding: 1%;
-	font-size: 3em;
+	font-size: 2em;
 	color: white;
 }
 
@@ -97,15 +100,15 @@ body{
 #canvas-data{
 	/*background: rgb(21,24,28);*/
 	width: 100%;
-	height: 680px;
+	height: 65%;
 	overflow-y: auto;
 	/*border: 2px solid red;*/
 }
 
 #canvas-data2{
 	width: 100%;
-	height: 200px;
-	overflow-y: auto;
+	height: 15%;
+	overflow-y: hidden;
 }
 
 #canvas{
@@ -114,7 +117,7 @@ body{
 
 .canvas-data-item-container{
 	color: white;
-	font-size: 1.5em;
+	font-size: 1em;
 	background-color: black;
 	/*width: 50%;*/
 	padding: 4%;
@@ -167,10 +170,10 @@ body{
 
 #footer{
 	position: absolute;
-	top: 75vh;
-	padding-left:1000px;
-	padding-top: 200px;
-	height: 13vh;
+	top: 70vh;
+	padding-left:50vw;
+	padding-top: 10vh;
+	height: 30vh;
 	width: 100vw;
 	/*background-color: black;*/
 	background: url(../assets/clouds.jpeg);
@@ -222,6 +225,13 @@ body{
     /*padding: 0 33px 0 95px;*/
     border-right: 2px solid rgb(62,67,76);
     overflow: hidden;
+}
+
+.livetv-placeholder{
+	position: absolute;
+	left: 32vw;
+	width: 70vw;
+	height: 70vh;
 }
 
 .logo-title{
@@ -467,7 +477,7 @@ body{
 #test-data{
 	color: white;
 	font-size: 4em;
-	border: 1px solid red !important;
+	/*(border: 1px solid white !important;*/
 }
 
 /*

@@ -23,8 +23,7 @@ function View(controller){
       self.controller.loadNewsData();
     }, 60000);
 
-    // the function below will fail on chrome browser 
-    this.controller.setPig();
+   
 
 
 
@@ -71,6 +70,9 @@ function View(controller){
 		   //console.log(errorMsg);
 		   return true;
 		 };
+
+    // the function below will fail on chrome browser 
+    this.controller.setPig();
 
 	console.log('end of view reached!');
 }
