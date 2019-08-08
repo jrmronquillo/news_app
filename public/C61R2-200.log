@@ -1,0 +1,282 @@
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT MSG} [setCropAndViewRect:684] cropBounds set to(0.000000, 0.000000, 1.000000, 1.000000) 
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT MSG} [setCropAndViewRect:685] setViewRect set to(0.000000, 0.000000, 1.000000, 1.000000) 
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 0 720 480 
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 0 720 480 
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT MSG} [WkSsmClient:28] WkSsmClient ctor() called
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT MSG} [ChromeClientDirectv:75] DirtyRect Enabled 
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT ALW} Disabling WebKit Developer Mode 
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT ALW} Enabling WebKit security
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT MSG} [initSettings:309] ** Disable memory cache 
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT ALW} WebView: Load Arbiter: /opt/itv/lib/jsLibraries/arbiter-pure.js 
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 0 1280 720 
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:21    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 0 1280 720 
+Aug 5 19:00:23   FATAL ITVSession1 - setGraphicsAspectRatio() is full screen so notify webkit 
+Aug 5 19:00:23    ITV(1, 1): {WEBKIT MSG} [setRes:1499] Webkit setRes(0,0,32767,32767,0,0,32767,32767) 
+Aug 5 19:00:23    ITV(1, 1): {WEBKIT MSG} [setRes:1508] calling cropRect(0.000000, 0.000000, 1.000000, 1.000000) 
+Aug 5 19:00:23    ITV(1, 1): {WEBKIT MSG} [setRes:1531] calling frameRect(0.000000, 0.000000, 1.000000, 1.000000) 
+Aug 5 19:00:23    ITV(1, 1): {WEBKIT MSG} [setCropAndViewRect:678] setCropAndViewRect skipped 
+Aug 5 19:00:23    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:23    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 0 1280 720 
+Aug 5 19:00:23    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:23    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 0 1280 720 
+Aug 5 19:00:24   FATAL ITVSession1 - setGraphicsAspectRatio() is full screen so notify webkit 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setRes:1499] Webkit setRes(0,0,32767,32767,0,0,32767,32767) 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setRes:1508] calling cropRect(0.000000, 0.000000, 1.000000, 1.000000) 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setRes:1531] calling frameRect(0.000000, 0.000000, 1.000000, 1.000000) 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setCropAndViewRect:678] setCropAndViewRect skipped 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 0 1280 720 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 0 1280 720 
+Aug 5 19:00:24   FATAL ITVSession1 - setGraphicsAspectRatio() is full screen so notify webkit 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setRes:1499] Webkit setRes(0,0,32767,32767,0,4096,32767,24575) 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setRes:1508] calling cropRect(0.000000, 0.000000, 1.000000, 1.000000) 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setRes:1531] calling frameRect(0.000000, 0.125004, 1.000000, 0.749992) 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setCropAndViewRect:684] cropBounds set to(0.000000, 0.000000, 1.000000, 1.000000) 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setCropAndViewRect:685] setViewRect set to(0.000000, 0.125004, 1.000000, 0.749992) 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 90 1280 539 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 90 1280 539 
+Aug 5 19:00:24   FATAL ITVSession1 - setGraphicsAspectRatio() is full screen so notify webkit 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setRes:1499] Webkit setRes(0,0,32767,32767,0,4096,32767,24575) 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setRes:1508] calling cropRect(0.000000, 0.000000, 1.000000, 1.000000) 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setRes:1531] calling frameRect(0.000000, 0.125004, 1.000000, 0.749992) 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setCropAndViewRect:678] setCropAndViewRect skipped 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 90 1280 539 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 90 1280 539 
+Aug 5 19:00:24   FATAL ITVSession1 - setGraphicsAspectRatio() is full screen so notify webkit 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setRes:1499] Webkit setRes(0,0,32767,32767,0,4096,32767,24575) 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setRes:1508] calling cropRect(0.000000, 0.000000, 1.000000, 1.000000) 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setRes:1531] calling frameRect(0.000000, 0.125004, 1.000000, 0.749992) 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [setCropAndViewRect:678] setCropAndViewRect skipped 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 90 1280 539 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:24    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 90 1280 539 
+Aug 5 19:00:48   FATAL ITVSession1 - setGraphicsAspectRatio() is full screen so notify webkit 
+Aug 5 19:00:48    ITV(1, 1): {WEBKIT MSG} [setRes:1499] Webkit setRes(0,0,32767,32767,0,4096,32767,24575) 
+Aug 5 19:00:48    ITV(1, 1): {WEBKIT MSG} [setRes:1508] calling cropRect(0.000000, 0.000000, 1.000000, 1.000000) 
+Aug 5 19:00:48    ITV(1, 1): {WEBKIT MSG} [setRes:1531] calling frameRect(0.000000, 0.125004, 1.000000, 0.749992) 
+Aug 5 19:00:48    ITV(1, 1): {WEBKIT MSG} [setCropAndViewRect:678] setCropAndViewRect skipped 
+Aug 5 19:00:48    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:48    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 90 1280 539 
+Aug 5 19:00:48    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 2d00000 1e00000 0 
+Aug 5 19:00:48    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 90 1280 539 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [startApp:1156] https://iw.dtvce.com:8443/widgets/dock2.0/index.html?stbid=23244498459&cardid=003573700352&macaddr=1C:3A:DE:40:00:58 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT FIL} [filter=keydispatcher][dispatchKeys:255] DirectvKeyDispatcher::dispatchKey() dispatch = 1 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT FIL} [filter=keydispatcher][privKeyboardListenerThread:266] DirectvKeyDispatcher::keyboardListenerThread() started for sessionid 1 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebKit/directv/WebCoreSupport/ProtocolsDirectv.cpp:ProtDtvRequestIco:78] Ico request failed 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT ALW} Total Residential RAM memory: 5782528 Bytes 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT ALW} Memory USS (non code) + swap : 2940928  
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT ALW} Memory USS (non code) + swap without idle: 2940928  
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT ALW} idleMemoryCorrection set to: 2940928  
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [enableArbiter:707] INSERT STATIC PROPS AND METHODS world: 0x6341f8 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [dispatchDidClearWindowObjectInWorld:268] INSERT STATIC PROPS AND METHODS world: 0x6341f8 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/platform/network/curl/ResourceHandleManager.cpp:startJob:733] IPOR: Start async request 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebKit/directv/Api/wk_appmgr.cpp:HTML5_OsdNotification:1639] wk_appmgr osdEvent priority: 0, osdnumber: 706, osdDescription: , display: 1
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [getRootCertificatePath:71] WkSsmClient getRootCertificatePath called
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [getRootCertificatePath:86] WkSsmClient getRootCertificatePath fetched /tmp/ssm/rootca
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [sslCtxCallback:179] Retrieved ssl ca path from ssm: /tmp/ssm/rootca 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [getSecret:40] WkSsmClient getSecret called for dev_hr20_cert timeout 3600
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 0
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [getSecret:57] WkSsmClient getSecret fetched from SSM
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [updateTimer:35] ssm updateTimer() dev_hr20_cert
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [updateCache:86] ssm updateCache()
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [getSecret:40] WkSsmClient getSecret called for dev_hr20_key timeout 3600
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 0
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [getSecret:57] WkSsmClient getSecret fetched from SSM
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [updateTimer:35] ssm updateTimer() dev_hr20_key
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [updateCache:86] ssm updateCache()
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [sslCtxCallback:191] using cert of size 1597 and key of size 1675 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [frameUrlChanged:217] INSERT STATIC PROPS AND METHODS world: 0x6341f8 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [dispatchDidClearWindowObjectInWorld:268] INSERT STATIC PROPS AND METHODS world: 0x6341f8 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT FIL} [filter=dtvmw][setResolution:600] DTVMiddleWare::setResolution() w=1920, h=1080 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 7800000 4380000 0 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 90 1280 539 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:752] Setting Ortho (in Fixed Point) to: 0 7800000 4380000 0 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT MSG} [initializeCurrentViewPort:755] Setting Viewport to: 0 90 1280 539 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/platform/network/curl/ResourceHandleManager.cpp:startJob:733] IPOR: Start async request 
+Aug 5 19:00:52    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/platform/network/curl/ResourceHandleManager.cpp:startJob:733] IPOR: Start async request 
+Aug 5 19:00:53    ITV(1, 1): {WEBKIT MSG} [getRootCertificatePath:71] WkSsmClient getRootCertificatePath called
+Aug 5 19:00:53    ITV(1, 1): {WEBKIT MSG} [sslCtxCallback:179] Retrieved ssl ca path from ssm: /tmp/ssm/rootca 
+Aug 5 19:00:53    ITV(1, 1): {WEBKIT MSG} [getSecret:40] WkSsmClient getSecret called for dev_hr20_cert timeout 3600
+Aug 5 19:00:53    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:00:53    ITV(1, 1): {WEBKIT MSG} [isSecretUpToDate:50] ssm isSecretUpToDate() 1
+Aug 5 19:00:53    ITV(1, 1): {WEBKIT MSG} [getSecret:44] WkSsmClient getSecret returned from cache
+Aug 5 19:00:53    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:00:53    ITV(1, 1): {WEBKIT MSG} [getSecret:40] WkSsmClient getSecret called for dev_hr20_key timeout 3600
+Aug 5 19:00:53    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:00:53    ITV(1, 1): {WEBKIT MSG} [isSecretUpToDate:50] ssm isSecretUpToDate() 1
+Aug 5 19:00:53    ITV(1, 1): {WEBKIT MSG} [getSecret:44] WkSsmClient getSecret returned from cache
+Aug 5 19:00:53    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:00:53    ITV(1, 1): {WEBKIT MSG} [sslCtxCallback:191] using cert of size 1597 and key of size 1675 
+Aug 5 19:00:54    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/platform/network/curl/ResourceHandleManager.cpp:startJob:733] IPOR: Start async request 
+Aug 5 19:00:56    ITV(1, 1): {WEBKIT ALW} WebView Callback DEFAULT: Load Complete: https://iw.dtvce.com:8443/widgets/dock2.0/index.html?stbid=23244498459&cardid=003573700352&macaddr=1C:3A:DE:40:00:58 
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/platform/network/curl/CookieJarCurl.cpp:cookies:248] could not open cookie file (reading): /var/itv_data/cookies/cookieJar3.txt 
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT MSG} [setCookies:185] Could not open cookie file (reading): /var/itv_data/cookies/cookieJar3.txt 
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/platform/network/curl/ResourceHandleManager.cpp:startJob:733] IPOR: Start async request 
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/platform/network/curl/ResourceHandleManager.cpp:startJob:733] IPOR: Start async request 
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT MSG} [getRootCertificatePath:71] WkSsmClient getRootCertificatePath called
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT MSG} [sslCtxCallback:179] Retrieved ssl ca path from ssm: /tmp/ssm/rootca 
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT MSG} [getSecret:40] WkSsmClient getSecret called for dev_hr20_cert timeout 3600
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT MSG} [isSecretUpToDate:50] ssm isSecretUpToDate() 1
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT MSG} [getSecret:44] WkSsmClient getSecret returned from cache
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT MSG} [getSecret:40] WkSsmClient getSecret called for dev_hr20_key timeout 3600
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT MSG} [isSecretUpToDate:50] ssm isSecretUpToDate() 1
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT MSG} [getSecret:44] WkSsmClient getSecret returned from cache
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT MSG} [sslCtxCallback:191] using cert of size 1597 and key of size 1675 
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT ALW} Total Residential RAM memory: 8691712 Bytes 
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT ALW} Memory USS (non code) + swap : 4448256  
+Aug 5 19:00:57    ITV(1, 1): {WEBKIT ALW} Memory USS (non code) + swap without idle: 1507328  
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT FIL} [filter=keydispatcher][createKeyEvent:408] DirectvKeyDispatcher::createKeyEvent() for session 1 keyCode = 1E001 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT MSG} [PlatformKeyboardEvent:218] mapped key: 0xe001 -> 0xd (fd=22, type=6242880)
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: CARD_ID = 003573700352 : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: RECEIVER_ID = 023244498459 : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: FAMILY = HR54 : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: FAMILY_ID = 0038 : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: VERSION = 1212 : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: SOFTWARE_VERSION = 4626 : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: MODEL = HR54-200 : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: HARDWARE = Samsung : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: HD = true : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: DVR = true : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: CHROME = false : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: GENIE = true : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT FIL} [filter=keydispatcher][pushbackKey:248] WebKit did not process key, so pushback 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/platform/network/curl/ResourceHandleManager.cpp:startJob:733] IPOR: Start async request 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/platform/network/curl/ResourceHandleManager.cpp:startJob:733] IPOR: Start async request 
+Aug 5 19:01:01    ITV(1, 1): {WEBKIT ALW} PNGDecoder creation
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT FIL} [filter=keydispatcher][createKeyEvent:408] DirectvKeyDispatcher::createKeyEvent() for session 1 keyCode = E001 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [PlatformKeyboardEvent:218] mapped key: 0xe001 -> 0xd (fd=22, type=6242880)
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT FIL} [filter=keydispatcher][pushbackKey:248] WebKit did not process key, so pushback 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [isClient:365] Navigator::isClient() = 1 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [isClient:365] Navigator::isClient() = 1 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/page/Navigator.cpp:getClientID:191] calling Navigator::getClientID()
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: UTILS - ZIP - from ivg has : 99 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: UTILS - your ivg zip code is : 99 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: UTILS - cookie zip set with : 99 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: ~DOCK-CA your zip code is [string] 90245 : 100 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: DOCK-CA your dma is: [string] 902 : 100 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: DOCK-CA your stb camId is: 003573700352 : 101 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: DOCK-CA your stb rID is: 023244498459 : 101 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: ~DOCK-CA regions provided, so comparing dma with regions... : 105 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: ~DOCK-CA FOUND DMA/REGION MATCH -- region [number] [902] and dma [string] 902 : 108 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: MODEL - did dma match a provided region? : 108 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: ~DOCK-CA app name [Locast App] Dma qualification is: true : 105 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: ~DOCK-CA:iHeartRADIO does not support 3rd party STB. : 101 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: ~DOCK-CA:Entertainment Extras(MFW) does not support 3rd party STB. : 101 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: ~DOCK-CA: Digital Life requires the following prerequisites: (genie,lifeshield) Testing app requirements... : 103 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: CARD_ID = 003573700352 : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: RECEIVER_ID = 023244498459 : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: FAMILY = HR54 : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: FAMILY_ID = 0038 : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: VERSION = 1212 : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: SOFTWARE_VERSION = 4626 : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: MODEL = HR54-200 : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: HARDWARE = Samsung : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: HD = true : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: DVR = true : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: CHROME = false : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: STB INFO: GENIE = true : 27 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: ~DOCK-CA: STB Family is: HR54 : 104 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: ~DOCK-CA: Genie STB test: PASSED : 81 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: ~DOCK-CA:  isLifeShieldEnabled test: PASSED : 84 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: ~DOCK-CA: Prerequisites met. Displaying (Digital Life). : 104 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: ***** NEW OMNITURE CALL FIRED ***** : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: list1 = Locast App|Music Choice|ScoreGuide|Weather|Digital Life|What's Hot : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: prop1 = TVApp : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: prop7 = Existing : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: prop15 = L|P|C|V|H|R|K : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: prop49 = dtvapptvprod : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: prop53 = 12:01PM : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: prop54 = Monday : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: prop63 = U : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar7 = L|P|C|V|H|R|K : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar10 = Existing : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar11 = STB : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar32 = LAN : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar34 = 003573700352 : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar38 = TV DOCK 12.8.0 : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar40 = Samsung : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar49 = TVApp:Homepage : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar53 = First visit : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar54 = 023244498459 : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar55 = 12:01PM : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar57 = TV : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar61 = 2019-08-05T12:01:02PDT : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar63 = U : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar66 = TVApp : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: events = event101 : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: linkTrackEvents = event101 : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: pageName = TVApp:Homepage : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar67 = TVApp:Homepage : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: prop2 = TVApp:Homepage : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar68 = TVApp:Homepage : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: prop3 = TVApp:Homepage : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: eVar69 = TVApp:Homepage : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: prop4 = TVApp:Homepage : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} JS: OMNITURE: linkTrackVars = list1,prop1,prop7,prop15,prop49,prop53,prop54,prop63,eVar7,eVar10,eVar11,eVar32,eVar34,eVar38,eVar40,eVar49,eVar53,eVar54,eVar55,eVar57,eVar61,eVar63,eVar66,events,linkTrackEvents,pageName,eVar67,prop2,eVar68,prop3,eVar69,prop4 : 20 : https://iw.dtvce.com:8443/widgets/dock2.0/js/app.js 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/platform/network/curl/ResourceHandleManager.cpp:startJob:733] IPOR: Start async request 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [getRootCertificatePath:71] WkSsmClient getRootCertificatePath called
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [sslCtxCallback:179] Retrieved ssl ca path from ssm: /tmp/ssm/rootca 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [getSecret:40] WkSsmClient getSecret called for dev_hr20_cert timeout 3600
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [isSecretUpToDate:50] ssm isSecretUpToDate() 1
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [getSecret:44] WkSsmClient getSecret returned from cache
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [getSecret:40] WkSsmClient getSecret called for dev_hr20_key timeout 3600
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [isSecretUpToDate:50] ssm isSecretUpToDate() 1
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [getSecret:44] WkSsmClient getSecret returned from cache
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [sslCtxCallback:191] using cert of size 1597 and key of size 1675 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [getRootCertificatePath:71] WkSsmClient getRootCertificatePath called
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [sslCtxCallback:179] Retrieved ssl ca path from ssm: /tmp/ssm/rootca 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [getSecret:40] WkSsmClient getSecret called for dev_hr20_cert timeout 3600
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [isSecretUpToDate:50] ssm isSecretUpToDate() 1
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [getSecret:44] WkSsmClient getSecret returned from cache
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [getSecret:40] WkSsmClient getSecret called for dev_hr20_key timeout 3600
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [isSecretUpToDate:50] ssm isSecretUpToDate() 1
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [getSecret:44] WkSsmClient getSecret returned from cache
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [isSecretInCache:73] ssm isSecretInCache 1
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT MSG} [sslCtxCallback:191] using cert of size 1597 and key of size 1675 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT ALW} PNGDecoder creation
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT ALW} Total Residential RAM memory: 9997312 Bytes 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT ALW} Memory USS (non code) + swap : 5185536  
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT ALW} Memory USS (non code) + swap without idle: 2244608  
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT ALW} PNGDecoder creation
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT ALW} PNGDecoder creation
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/platform/network/curl/ResourceHandleManager.cpp:startJob:733] IPOR: Start async request 
+Aug 5 19:01:02    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/platform/network/curl/ResourceHandleManager.cpp:startJob:733] IPOR: Start async request 
+Aug 5 19:01:03    ITV(1, 1): {WEBKIT ALW} PNGDecoder creation
+Aug 5 19:01:03    ITV(1, 1): {WEBKIT ALW} PNGDecoder creation
+Aug 5 19:01:03    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/platform/network/curl/ResourceHandleManager.cpp:startJob:733] IPOR: Start async request 
+Aug 5 19:01:03    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/platform/network/curl/ResourceHandleManager.cpp:startJob:733] IPOR: Start async request 
+Aug 5 19:01:03    ITV(1, 1): {WEBKIT ALW} PNGDecoder creation
+Aug 5 19:01:03    ITV(1, 1): {WEBKIT ALW} PNGDecoder creation
+Aug 5 19:01:03    ITV(1, 1): {WEBKIT ERR} [/data/svc.jenkins_build/workspace/releases/sam_hr54@2/core/webkit/WebCore/platform/network/curl/ResourceHandleManager.cpp:startJob:733] IPOR: Start async request 
+Aug 5 19:01:03    ITV(1, 1): {WEBKIT ALW} PNGDecoder creation
+Aug 5 19:01:07    ITV(1, 1): {WEBKIT ALW} Total Residential RAM memory: 10285056 Bytes 
+Aug 5 19:01:07    ITV(1, 1): {WEBKIT ALW} Memory USS (non code) + swap : 5447680  
+Aug 5 19:01:07    ITV(1, 1): {WEBKIT ALW} Memory USS (non code) + swap without idle: 2506752  
+Aug 5 19:01:12    ITV(1, 1): {WEBKIT ALW} Total Residential RAM memory: 10285056 Bytes 
+Aug 5 19:01:12    ITV(1, 1): {WEBKIT ALW} Memory USS (non code) + swap : 5447680  
+Aug 5 19:01:12    ITV(1, 1): {WEBKIT ALW} Memory USS (non code) + swap without idle: 2506752  
+Aug 5 19:01:17    ITV(1, 1): {WEBKIT ALW} Total Residential RAM memory: 10285056 Bytes 
+Aug 5 19:01:17    ITV(1, 1): {WEBKIT ALW} Memory USS (non code) + swap : 5447680  
+Aug 5 19:01:17    ITV(1, 1): {WEBKIT ALW} Memory USS (non code) + swap without idle: 2506752  
+A
